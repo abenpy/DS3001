@@ -33,3 +33,6 @@ Python 3.6
 Python packages:
   - numpy
   - pandas
+  
+## Notes:
+The run time reported in the report might slightly differ from the time shown on ipython notebook due to the computer or time it was last ran. Please note that the run time you get might also slightly differ due to performance of different device.
