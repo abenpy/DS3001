@@ -4,7 +4,7 @@ Apply multiple methods taught in Advanced Python(DS3001) to speed up original pr
 ## The Python files
 There 6 python files:
 
-01_Merged_original_Step1.ipynb \n
+01_Merged_original_Step1.ipynb <br />
 02_Merged_original_Step2.ipynb
 03_Merged_improved_Step1.ipynb
 04_Merged_improved_Step1(Cython).ipynb
