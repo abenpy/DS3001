@@ -2,15 +2,16 @@
 Apply multiple methods taught in Advanced Python(DS3001) to speed up original project code.
 
 ## The Python files
-There 5 python files:
+There 6 python files:
 
-01_Merged_original_Step1.ipynb
+01_Merged_original_Step1.ipynb \n
 02_Merged_original_Step2.ipynb
 03_Merged_improved_Step1.ipynb
-04_Merged_improved_Step2.ipynb
-05_Seperated_original&improved_Step1&Step2.ipynb
+04_Merged_improved_Step1(Cython).ipynb
+05_Merged_improved_Step2.ipynb
+06_Seperated_original&improved_Step1&Step2.ipynb
 
-## The Approach
+## How to run the files:
 A single neural network was used to model all 145k time series.  The model architecture is similar to WaveNet, consisting of a stack of dilated causal convolutions, as demonstrated in the [diagram](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) below.
 
 
