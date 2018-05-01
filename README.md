@@ -2,8 +2,7 @@
 Apply multiple methods taught in Advanced Python(DS3001) to speed up original project code.
 
 ## The Python files
-There 6 python files:
-
+There 6 python files:<br />
 01_Merged_original_Step1.ipynb <br />
 02_Merged_original_Step2.ipynb <br />
 03_Merged_improved_Step1(withCython.ipynb <br />
